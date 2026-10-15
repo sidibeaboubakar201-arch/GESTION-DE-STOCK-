@@ -1,0 +1,6 @@
+{
+  "name": "SecurStock - Gestion de Stock Sécurité",
+  "description": "Application professionnelle de gestion de stock pour matériel de sécurité, alarmes, vidéosurveillance et équipements de protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
